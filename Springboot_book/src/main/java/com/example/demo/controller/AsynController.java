@@ -13,7 +13,7 @@ public class AsynController {
     @RequestMapping("/hello")
     public String hello(){
         asynService.hello();
-        System.out.println("数据正在处理");
+        System.out.println("数据正在处理中 请稍后 ");
         return "OK";
     }
 }
