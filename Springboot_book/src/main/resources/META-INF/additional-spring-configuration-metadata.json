@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "person.a",
+      "type": "java.lang.String",
+      "description": "Description for person.a."
+    },
+    {
+      "name": "person.Sex",
+      "type": "java.lang.String",
+      "description": "Description for person.Sex."
+    }
+  ]
+}
